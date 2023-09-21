@@ -4,7 +4,10 @@ data/camvid/images/
 data/camvid/labels/
 data/cityscapes/leftImg8bit/
 data/cityscapes/gtFine/
-
+log/
+output/camvid/
+output/cityscapes/
+pretrained_models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
